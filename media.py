@@ -1,8 +1,6 @@
 import webbrowser
 
 class Movie():
-    """ This class will define the class Movie """
-    VALID_RATINGS = ["G","PG","PG-13","R"]
 
     """ __init__ initializes the variables movie_title, movie_storyline,
     poster_image, and trailer_youtube """
