@@ -14,4 +14,4 @@ This will run on any browser window that supports python
 
 
 # Usage
-Enter in the complete directory structure of the directory you saved the files, into the address bar of any browser.
+Double click on the entertainment_center.py
